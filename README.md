@@ -1,4 +1,4 @@
 # demoRepository
 This is my practice repository
 <br>
-Author - Pruthviraj Kharate
+Author - Pruthviraj (Anil Kharate)
